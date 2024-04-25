@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://github.com/team-pepero/top-casting-be/assets/149944467/126d0e6a-b8bb-4aa9-89e8-b2bc982d26fb)" />
+  <img src="https://github.com/team-pepero/top-casting-be/assets/149944467/f4145829-b811-45fd-9ea3-cc65e2d1eb26" />
 </div>
 
 
